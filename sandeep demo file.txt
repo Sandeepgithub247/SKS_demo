@@ -1,2 +1,2 @@
 Hello java
-Hi.. thank you for helping me.
+Testing conflict errors. Hi.. thank you for helping me.
